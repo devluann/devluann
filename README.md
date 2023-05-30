@@ -2,7 +2,7 @@
 
 ### Técnico em análise e desenvolvilmento de sistemas em crescimento, experiência com efeitos visuais e edição de vídeo, inglês avançado.
 
-### Apesar de não combinar muito com a área, gosto de praticar esportes e atividade física. Opto por passar meu tempo jogando jogos competitivos em sua grande maioria e assistindo filmes/séries, preferindo gêneros como fantasia e aventura. 
+### Falando sobre mim, gosto de praticar esportes e atividade física. Opto por passar meu tempo jogando jogos competitivos em sua grande maioria e assistindo filmes/séries, preferindo gêneros como fantasia e aventura. 
 
 ![Luann's GitHub stats](https://github-readme-stats.vercel.app/api?username=devluann&theme=dark&show_icons=true)
 
@@ -22,3 +22,5 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)

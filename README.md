@@ -2,7 +2,7 @@
 
 ### Técnico em análise e desenvolvilmento de sistemas em crescimento, experiência com efeitos visuais e edição de vídeo, inglês avançado.
 
-### Falando sobre mim, gosto de praticar esportes e atividade física. Opto por passar meu tempo jogando jogos competitivos em sua grande maioria e assistindo filmes/séries, preferindo gêneros como fantasia e aventura. 
+### Falando sobre mim, gosto de praticar esportes e atividade física. Opto por passar meu tempo jogando jogos competitivos em sua grande maioria e assistindo filmes/séries, preferindo gêneros como fantasia e aventura.
 
 ![Luann's GitHub stats](https://github-readme-stats.vercel.app/api?username=devluann&theme=dark&show_icons=true)
 
